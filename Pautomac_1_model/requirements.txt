@@ -1,0 +1,9 @@
+mlflow
+astunparse==1.6.3
+cloudpickle==2.0.0
+dill==0.3.4
+enum34==1.1.10
+ipython==8.3.0
+pathlib==1.0.1
+torch==1.11.0
+tqdm==4.64.0
